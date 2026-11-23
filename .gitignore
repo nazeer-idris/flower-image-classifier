@@ -1,0 +1,17 @@
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Dataset and trained models (not included in the repository)
+data/
+models/
+*.h5
+*.keras
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

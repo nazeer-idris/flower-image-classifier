@@ -1,0 +1,11 @@
+tensorflow>=2.13,<2.16
+numpy
+matplotlib
+seaborn
+scikit-learn
+pillow
+opencv-python
+imagehash
+split-folders
+xplique
+jupyterlab
